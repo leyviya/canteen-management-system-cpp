@@ -1,0 +1,9 @@
+Water-1.5Lt 1.5
+Milk 3
+Hamburger 15
+Chicken_Burger 15
+Cola 4
+Soda 1.75
+Salad 15
+Chips 4
+Coffee 5
